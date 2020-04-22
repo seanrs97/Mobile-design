@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Brunchies",
+        "type": "Fast food",
+		"image": "../images/json-images/brunchies.jpg"
+    },
+    {
+        "name": "KFC",
+		"type": "Fast food",
+		"image": "../images/json-images/kfc.jpeg"
+    },
+    {
+        "name": "Capones",
+        "type": "Pizza place",
+		"image": "../images/json-images/capones.jpg"
+    },
+    {
+        "name": "Kebab City",
+        "type": "Kebab",
+		"image":"../images/json-images/kebab.jpg"
+    },
+    {
+        "name": "Chilli Jacks",
+        "type": "Chicken Joint",
+		"image":"../images/json-images/chilli2.jpg"
+    },
+    {
+        "name": "Rendevouz",
+        "type": "Chicken Joint",
+		"image":"../images/json-images/chicken.jpg"
+    }
+]
